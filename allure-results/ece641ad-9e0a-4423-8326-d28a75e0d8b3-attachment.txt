@@ -1,0 +1,7 @@
+{
+  empname: 'Moorthy',
+  empid: 234567,
+  phone: { mobile1: '9176534549', mobile2: '9080479979' },
+  skills: [ 'manual', 'automation', 'mobile', 'api_testing' ]
+}
+second mobile number: 9080479979
