@@ -5,8 +5,8 @@
 //         console.log(dialog.message());
 //     })
 
-import {test} from '@playwright'
-test ('DOM Popup', async({page})=>{
+// import {test} from '@playwright'
+// test ('DOM Popup', async({page})=>{
 
-await page.goto("https://www.makemytrip.com/");
-})
+// await page.goto("https://www.makemytrip.com/");
+// })

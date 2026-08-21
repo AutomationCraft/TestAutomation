@@ -59,7 +59,7 @@ test('min_price', async ({ page }) => {
 
 
        
-   spec // Print ONLY minimum price and product name
+   //spec // Print ONLY minimum price and product name
     console.log("Minimum price:", minPrice);
 
     console.log(
